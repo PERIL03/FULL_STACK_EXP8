@@ -76,6 +76,12 @@ Note: avoid committing real database passwords in source control.
 
 ## Run the Application
 
+<img width="1680" height="1050" alt="Screenshot 2026-03-24 at 15 18 26" src="https://github.com/user-attachments/assets/96b7a242-7d04-4c4f-a539-d16b816cc595" />
+
+
+<img width="1680" height="1050" alt="Screenshot 2026-03-24 at 15 16 07" src="https://github.com/user-attachments/assets/3b23a7e6-1119-4245-a539-a661c9e663fe" />
+
+
 From project root:
 
 ```bash
